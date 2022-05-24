@@ -1,1 +1,3 @@
 Updating changes for commit.
+
+Update change to test empty commit message.
